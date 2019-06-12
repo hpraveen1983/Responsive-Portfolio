@@ -47,6 +47,16 @@ body,html {
   clear: both;
 }
 
+#sec {
+  min-height: calc(100vh-50px);
+  margin-bottom: 10px;
+  
+}
+
+#footer{
+  height: 50px;
+}
+
 @media screen and (max-width:768px) {
   .row1 {
     width: 100%;
